@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PartyHub](https://github.com/PartyHubAT)
 
-- 🌱 I’m currently learning **Flutter and**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [www.lukasganster.com](www.lukasganster.com)
 
