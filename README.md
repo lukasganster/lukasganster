@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasganster&label=Profile%20views&color=0e75b6&style=flat" alt="lukasganster" /> </p>
 
-- 🔭 I’m currently working on [PartyHub](https://github.com/PartyHubAT)
+- 🔭 I’m currently working on [headlines](https://github.com/lukasganster/headlines) and [PartyHub](https://github.com/PartyHubAT)
 
 - 🌱 I’m currently learning **Flutter**
 
