@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [headlines](https://github.com/lukasganster/headlines), [SmartCooking](https://www.smartcooking.at) and [PartyHub](https://github.com/PartyHubAT)
 
-- 🌱 I’m currently learning **React Native** and **Flutter**
+- 🌱 I’m currently learning **React Native** and **NestJS**
 
 - 👨‍💻 All of my projects are available at [www.lukasganster.com](www.lukasganster.com)
 
