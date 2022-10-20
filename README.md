@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A frontend developer with a passion for design based in Vienna</h3>
+<h3 align="center">A full stack developer with a passion for UX and design based in Vienna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasganster&label=Profile%20views&color=0e75b6&style=flat" alt="lukasganster" /> </p>
 
