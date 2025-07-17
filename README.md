@@ -8,6 +8,6 @@
 
 - 💻 I've recently worked with NestJS, Vue, Angular, Ionic, Java Springboot and Python
 
-- 👨‍💻 All of my projects are available at [www.lukasganster.com](www.lukasganster.com)
+- 👨‍💻 All of my projects are available at [www.lukasganster.com](https://www.lukasganster.com)
 
 - 📫 How to reach me **office@lukasganster.com**
