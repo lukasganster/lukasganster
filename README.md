@@ -22,8 +22,3 @@
 - 📫 Reach me at  
   ✉️ **office@lukasganster.com**
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasganster&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
