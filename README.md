@@ -1,13 +1,29 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A full stack developer with a passion for UX and design based in Vienna</h3>
+<h3 align="center">Full Stack Developer with a passion for UX & Design based in Vienna 🇦🇹</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasganster&label=Profile%20views&color=0e75b6&style=flat" alt="lukasganster" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lukasganster&label=Profile%20views&color=0e75b6&style=flat" alt="lukasganster" />
+</p>
 
-- 🔭 I’m currently working on [jukebox.party](https://github.com/mobile-friends/jukebox-party), [headlines](https://github.com/lukasganster/headlines), [SmartCooking](https://www.smartcooking.at) and Lento (Spotify extension)
-- 🌱 I’m currently learning **React Native** and **Next**
+---
 
-- 💻 I've recently worked with NestJS, Vue, Angular, Ionic, Java Springboot and Python
+- 🔭 I’m currently working on:  
+  🧩 **RDS** – in-house Design System  
+  [🎧 jukebox.party](https://github.com/mobile-friends/jukebox-party) •  
+  [🍳 SmartCooking](https://www.smartcooking.at) •  
+  🎶 *Lento* — a Spotify extension
 
-- 👨‍💻 All of my projects are available at [www.lukasganster.com](https://www.lukasganster.com)
+- 💻 Recently worked with  
+  **Angular**, **NestJS**, **Next.js**, **Astro**, and **Spring Boot**
 
-- 📫 How to reach me **office@lukasganster.com**
+- 👨‍💻 Explore my work on  
+  🌐 [www.lukasganster.com](https://www.lukasganster.com)
+
+- 📫 Reach me at  
+  ✉️ **office@lukasganster.com**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasganster&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
