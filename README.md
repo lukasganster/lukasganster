@@ -41,10 +41,10 @@ I care about the details where product, frontend architecture, and design system
 
 | Project                                                                   | Description                                                                              |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [🖼️ Immich Recompress](https://github.com/lukasganster/immich-recompress) | Browse, inspect, and recompress media from an Immich library with a small web dashboard. |
-| [🎧 jukebox.party](https://github.com/mobile-friends/jukebox-party)       | Collaborative music experience for parties and shared spaces.                            |
-| [🍳 SmartCooking](https://www.smartcooking.at)                            | Digital cooking and recipe experience.                                                   |
-| 🎶 Lento                                                                  | Spotify extension project.                                                               |
+| [Immich Recompress](https://github.com/lukasganster/immich-recompress)    | Browse, inspect, and recompress media from an Immich library with a small web dashboard. |
+| [jukebox.party](https://github.com/mobile-friends/jukebox-party)          | Collaborative music experience for parties and shared spaces.                            |
+| [SmartCooking](https://www.smartcooking.at)                               | Digital cooking and recipe experience.                                                   |
+| Lento                                                                     | Spotify extension project.                                                               |
 
 ## Focus Areas
 
